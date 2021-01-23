@@ -1,15 +1,13 @@
 Jalat: 70 * 70 * 750 (8) -> 6 m
-Poikkituet: 48 * 48 * 1360 (8) -> 10,88 m
-Poikkituet, pöydässä kiinni: 48 * 48 * 1382 (3) -> 4,146 m
-Pitkittäistuet: 48 * 48 * 810 (6) -> 4,86 m
+Poikkituet: 48 * 48 * 1320 (8) -> 10,56 m
+Poikkituet, pöydässä kiinni: 48 * 48 * (1320 + (jalan paksuus - riman paksuus) = 1320 + 70 - 48 = 1342 (3) -> 4,03 m
+Pitkittäistuet: 48 * 48 * 893,33 (6) -> 5,36 m
 Pitkittäiset keskitukilaudat: 22/26 * 95 * 2710 (6) -> 16,26 m
-Pöytälevyt:
-16 * 400 * 2750 (1) -> https://www.k-rauta.fi/tuote/hyllylevy-koskikant-16x400x2750-valkoinen/6405422850778
-16 * 570 * 2750 (2) -> https://www.k-rauta.fi/tuote/hyllylevy-koskikant-16x570x2750-valkoinen/6405422850761
+Pöytälevy: 9 * 1500 * 3000 filmivaneri: https://www.bauhaus.fi/filmivaneri-9-x-1500-x-3000-mm-koivu-f-v.html
 
 Summa summarum:
 
-Kakkoskakkosta 19,89 m -> 25 m
+Kakkoskakkosta 19,95 m -> 25 m
 4" lautaa 16,26 m -> 20 m
 Jalkoja 6 m
 Kolme pöytälevyä
